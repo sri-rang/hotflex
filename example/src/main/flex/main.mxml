@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009"
+			   xmlns:s="library://ns.adobe.com/flex/spark"
+			   xmlns:common="views.controls.*"
+			   xmlns:screens="views.screens.*">
+
+	<s:layout>
+		<s:VerticalLayout/>
+	</s:layout>
+
+	<s:VGroup id="screens"
+			  width="100%"
+			  height="100%">
+
+    <s:Button label="hello"/>
+
+    <s:Button label="world"/>
+
+	</s:VGroup>
+
+</s:Application>
+

@@ -1,0 +1,7 @@
+{
+  "source": "./src/main/flex/main.mxml"
+, "sourceFolder": "./src"
+, "target": "./bin/main.swf"
+, "lib": "./lib"
+}
+

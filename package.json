@@ -1,0 +1,18 @@
+{ "name" : "hotflex"
+, "description" : "Compile on save for Adobe Flex projects"
+, "version" : "0.0.1"
+, "homepage" : "http://srirangan.net"
+, "author" : "Srirangan <srirangan@gmail.com> (http://srirangan.net)"
+, "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/Srirangan/hotflex"
+  }
+, "bin" : { "hotflex" : "./hotflex.js" }
+, "main" : "hotflex"
+, "licenses" :
+  [ { "type" : "MIT"
+    , "url" : "http://github.com/isaacs/npm/raw/master/LICENSE"
+    }
+  ]
+}
+
